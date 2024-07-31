@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "hexo-generator-searchdb": "^1.4.1",
+    "hexo-theme-keep": "^4.2.1"
+  }
+}
